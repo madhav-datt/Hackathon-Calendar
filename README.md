@@ -35,4 +35,5 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [MetroHacks](http://metrohacks.co) | Boston, MA | 5.21 - 5.22 |
 | [WellesleyHacks](http://wellesleyhacks.com/) | Wellelsey, MA | 5.28 |
 | [Cyclehack Berlin](http://cyclehackberlin.de) | Berlin, Germany | 6.24 - 6.26 |
+| [HackHarvard](http://hackharvard.io/) | Cambridge, MA | 10.21 - 10.23 |
 
